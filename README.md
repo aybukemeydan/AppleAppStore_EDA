@@ -5,9 +5,6 @@
 This is my first project in İstanbul Data Science Academy.This project is looking for the answer this question: "What application should I develop to the App Store?"
     If you want to read the article about my project.<a href="https://medium.com/@foreverflash95/eda-project-what-kind-of-paid-application-should-a-developer-develop-for-the-app-store-c98fcbc8111f">Just click!</a>
     
-    <html>
-
-<body>
   <h1>Summary</h1>
   <div id='agenda' style="background-color: aliceblue">
     <h2>METHODOLOGY</h2>
@@ -28,6 +25,4 @@ This is my first project in İstanbul Data Science Academy.This project is looki
       <li>4. Put these features into regression model and estimate the profit.</li>
     </ol>
   </div>
-</body>
 
-</html>
