@@ -17,7 +17,6 @@ This is my first project in İstanbul Data Science Academy.This project is looki
   
   <div id='tools' style='background-color: #f0fff0'>
     <h2>Future Works</h2>
-    <p>You will be learning about two primary Python libraries:</p>  
     <ol>
       <li>Which words should I use for an effective description? Do people look at the description while downloaded the application?Which words are the most mentioned in the definitions?</li>
       <li>What is the effect of supported languages on the number of rating?</li>
