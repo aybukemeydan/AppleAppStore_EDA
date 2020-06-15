@@ -6,7 +6,7 @@ This is my first project in İstanbul Data Science Academy.This project is looki
     If you want to read the article about my project.<a href="https://medium.com/@foreverflash95/eda-project-what-kind-of-paid-application-should-a-developer-develop-for-the-app-store-c98fcbc8111f">Just click!</a>
     
   <h1>Summary</h1>
-  <div id='agenda' style="background-color: aliceblue">
+  <div id='agenda' style="background-color: #f0f8ff">
     <h2>METHODOLOGY</h2>
     <ol>
       <li>Counting the paid app category</li>
@@ -15,14 +15,14 @@ This is my first project in İstanbul Data Science Academy.This project is looki
     </ol>
   </div>
   
-  <div id='tools' style='background-color: honeydew'>
+  <div id='tools' style='background-color: #f0fff0'>
     <h2>Future Works</h2>
     <p>You will be learning about two primary Python libraries:</p>  
     <ol>
-      <li>1. Which words should I use for an effective description? Do people look at the description while downloaded the application?Which words are the most mentioned in the definitions?</li>
-      <li>2. What is the effect of supported languages on the number of rating?</li>
-      <li>3. Sentimental analysis of user comments</li>
-      <li>4. Put these features into regression model and estimate the profit.</li>
+      <li>Which words should I use for an effective description? Do people look at the description while downloaded the application?Which words are the most mentioned in the definitions?</li>
+      <li>What is the effect of supported languages on the number of rating?</li>
+      <li>Sentimental analysis of user comments</li>
+      <li>Put these features into regression model and estimate the profit.</li>
     </ol>
   </div>
 
